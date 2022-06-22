@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_links_links_relacionados",
+  "info": {
+    "name": "links_relacionados",
+    "icon": "at"
+  },
+  "options": {},
+  "attributes": {
+    "link_name": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}

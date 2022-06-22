@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_project_project_categories",
+  "info": {
+    "name": "project_category",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "tecnologia": {
+      "type": "boolean"
+    },
+    "teoria": {
+      "type": "boolean"
+    },
+    "humanidades": {
+      "type": "boolean"
+    },
+    "escience": {
+      "type": "boolean"
+    },
+    "HPC": {
+      "type": "boolean"
+    },
+    "ecossistema": {
+      "type": "boolean"
+    }
+  }
+}
